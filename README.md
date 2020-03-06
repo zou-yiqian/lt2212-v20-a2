@@ -17,7 +17,9 @@ K-nearest Neighbours and SVC were chosen as two classififies.
 
 Part 4
 
-1)Beause of running time, it is still running.
+1)Classifier = K-nearest, weighted avg = 0.54 0.47 0.48
+
+Classifier = SVC, weighted avg = 
 
 2)The result is shown below.
 
