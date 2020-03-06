@@ -42,7 +42,11 @@ As the value of n_dim increases, the weighted avg increases. The result of SVC i
 
 Part Bonus
 
-1)Beause of running time, it is still running.
+1)After three hours, the result is as followed.
+
+Classifier = K-nearest, weighted avg = 0.55 0.48 0.49
+
+Classifier = SVC, weighted avg = 
 
 2)The result is shown below.
 
