@@ -19,7 +19,7 @@ Part 4
 
 1)Classifier = K-nearest, weighted avg = 0.54 0.47 0.48
 
-Classifier = SVC, weighted avg = 
+Classifier = SVC, weighted avg = 0.85 0.85 0.85
 
 2)The result is shown below.
 
@@ -48,7 +48,7 @@ Part Bonus
 
 Classifier = K-nearest, weighted avg = 0.55 0.48 0.49
 
-Classifier = SVC, weighted avg = 
+Classifier = SVC, weighted avg = 0.85 0.85 0.85
 
 2)The result is shown below.
 
